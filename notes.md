@@ -1,6 +1,6 @@
 Environment
 
-• AWS region: eu-north-1 (Stockholm)\n
+• AWS region: eu-north-1 (Stockholm)  
 • EC2 instance type: t3.micro
 • OS: Ubuntu
 • Splunk: local Splunk Enterprise trial/free setup
