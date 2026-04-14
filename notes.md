@@ -15,9 +15,9 @@ What I Implemented:
 
 2. IAM Role + Systems Manager  
 
-• Created and attached an EC2 IAM role with AmazonSSMManagedInstanceCore. 
-• Verified the instance as a managed node in AWS Systems Manager. 
-• Troubleshot SSM registration by validating IMDSv2-based role credential access and restarting the SSM agent.  
+• Created and attached an EC2 IAM role with AmazonSSMManagedInstanceCore.  
+• Verified the instance as a managed node in AWS Systems Manager.  
+• Troubleshot SSM registration by validating IMDSv2-based role credential access and restarting the SSM agent.   
 
 3. CloudTrail Logging  
 
